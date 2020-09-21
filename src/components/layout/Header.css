@@ -1,0 +1,14 @@
+.header > img{
+    height: 300px;
+    width: 100%;
+}
+
+.header-text {
+    position: absolute;
+    top: 9rem;
+    color: white;
+    right: 70%;
+    color: cadetblue;
+    font-family: monospace;
+    font-weight: 900;
+}

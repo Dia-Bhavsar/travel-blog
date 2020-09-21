@@ -1,0 +1,37 @@
+
+
+.article .container > img {
+  width: 55% !important;
+  max-height: 50%;
+  border-radius: 15px !important;
+  object-fit: contain;
+  margin-bottom: 15px;
+}
+
+h2 {
+  font-family: cursive;
+}
+
+p {
+  font-family: cursive;
+  word-spacing: 0.5rem;
+}
+
+.text-left{
+    text-align: left;
+}
+
+.badge{
+    margin-top:0.5rem;
+}
+
+.bottomMargin{
+    margin-bottom: 6rem;
+    border: 1px solid lightgreen;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+.authorname{
+  font-style: italic;
+}

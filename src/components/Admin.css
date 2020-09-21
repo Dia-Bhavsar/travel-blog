@@ -1,0 +1,61 @@
+.admin__post{
+  width: 100%;
+  height: 300px;
+  display: flex;
+}
+
+.admin__post>img{
+  height: 200px;
+  width: 200px;
+  padding: 10px;
+}
+
+.admin__article{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.admin__article >h4 {
+  font-family: cursive;
+  padding: 15px;
+}
+
+p {
+  font-family: cursive;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.badge {
+  margin-top: 0.5rem;
+}
+
+.bottomMargin {
+  margin-bottom: 2rem;
+  border: 1px solid lightgray;
+  border-radius: 15px;
+}
+
+.admin__headingPost {
+  font-weight: bolder !important;
+  padding: 0px !important;
+}
+
+.authorname{
+  font-style: italic;
+}
+
+.admin__actionButton{
+  display: flex;
+  justify-content: space-between;
+  justify-content: space-evenly;
+  width: 15%;
+  cursor: pointer;
+}
+
+.admin__edit> i, .admin__delete> i{
+  cursor: pointer;
+}
